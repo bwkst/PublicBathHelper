@@ -1,0 +1,11 @@
+<view class="title">人 数 高 峰 规 律</view>
+<button class="button" style="width:40%" bindtap="weekflow">规律图</button>
+<view class="content">澡堂人数较多的时间为：</view>
+<view class="data">20:30 & 21:30</view>
+<view class="content">澡堂人数较少的时间为：</view>
+<view class="data">19:00</view>
+<view class="blank"> </view>
+<view class="suggestion">建议下周选取人数较少的时间使用澡堂服务！</view>
+<view class="image">
+<image class="imagew" src="http://tiebapic.baidu.com/forum/pic/item/5b73f5198618367a26b4499e39738bd4b31ce553.jpg"></image>
+</view>

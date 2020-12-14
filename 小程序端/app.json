@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/flowrate/flowrate",
+    "pages/suggestion/suggestion",
+    "pages/temperature/temperature",
+    "pages/datatemp/index",
+    "pages/weektemp/index",
+    "pages/weekflow/index"
+  ],
+  "window": {
+    "backgroundColor": "#299F97",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6DA4E5",
+    "navigationBarTitleText": "您的澡堂小帮手",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

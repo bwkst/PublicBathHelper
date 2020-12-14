@@ -1,0 +1,9 @@
+<!-- index.wxml -->
+<view class="title">欢迎使用澡堂小帮手</view>
+<button class="button" style="width:65%"  bindtap="suggestion">洗澡建议</button>
+<button class="button" style="width:65%" open-type='feedback'>问题反馈</button>
+<button class="button" style="width:65%" bindtap="flowrate">人数高峰规律</button>
+<button class="button" style="width:65%" bindtap="temperature">本周水温规律</button>
+<view class="image">
+<image class="imagew" src="http://tiebapic.baidu.com/forum/pic/item/5b73f5198618367a26b4499e39738bd4b31ce553.jpg"></image>
+</view>

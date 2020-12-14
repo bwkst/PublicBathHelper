@@ -1,0 +1,8 @@
+<view class="title">澡堂实时数据</view>
+<view class="content">澡堂内人数：</view>
+<view class="data" id="dataflow">{{peopleNum}}</view>
+<view class="content">澡堂内温度：</view>
+<view class="data" bindtap="datatemp">{{temp}}</view>
+<view class="content">小帮手建议：</view>
+<view class="suggestion">{{suggest}}</view>
+
